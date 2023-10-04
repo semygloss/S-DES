@@ -1,5 +1,4 @@
-# cryptology
-A repository to submit and restore semygloss's homework of cryptology
+# Cryptology S-DES
 # User Guide
 ## Overview
 S-DES（Simplified Data Encryption Standard）is a simpified data encryption standard. It is suitable for encryption and decryption of small-scale data, whose structure and operating steps is easy to learn.
