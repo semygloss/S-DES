@@ -13,7 +13,7 @@ Environment configuration: python3
 
 ### Encryption
 Run app.py file, terminal input:
-```
+```python
 #加密过程
 python app.py 
 ```
