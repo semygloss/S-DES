@@ -10,8 +10,14 @@ Algorithm:
 Key Expansion
 ```math
 P10=(3,5,2,7,4,10,1,9,8,6)
+```
+```math
 P8=(6,3,7,4,8,5,10,9)
+```
+```math
 Leftshift1=(2,3,4,5,1)
+```
+```math
 Leftshift2=(3,4,5,1,2)
 ```
 Initial Permutation
