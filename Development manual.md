@@ -6,17 +6,19 @@ As an encryption algorithm for teaching rather than security use, the best way t
 Length of plaintext/ciphertext: 8-bit
 Length of main key: 10-bit
 Algorithm:
-[more details about S-DES algorithm please click here]()
-### Key Expansion
+[more details about S-DES algorithm please click here](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2014/04/17/SDES)
+Key Expansion
+```math
 P10=(3,5,2,7,4,10,1,9,8,6)
 P8=(6,3,7,4,8,5,10,9)
 Leftshift1=(2,3,4,5,1)
 Leftshift2=(3,4,5,1,2)
-### Initial Permutation
+```
+Initial Permutation
 IP=(2,6,3,1,4,8,5,7)
-### Final Permutation
+Final Permutation
 IP^-1=(4,1,3,5,7,2,8,6)
-### Round Function
+Round Function
 EPBox=(4,1,2,3,2,3,4,1)
 SBox1=[(1,0,3,2),(3,2,1,0),(0,2,1,3),(3,1,0,2)]
 SBox2=[(0,1,2,3),(2,3,0,1),(3,0,1,2),(2,1,0,3)]
