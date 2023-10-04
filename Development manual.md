@@ -21,14 +21,26 @@ Leftshift1=(2,3,4,5,1)
 Leftshift2=(3,4,5,1,2)
 ```
 Initial Permutation
+```math
 IP=(2,6,3,1,4,8,5,7)
+```
 Final Permutation
+```math
 IP^-1=(4,1,3,5,7,2,8,6)
+```
 Round Function
+```math
 EPBox=(4,1,2,3,2,3,4,1)
+```
+```math
 SBox1=[(1,0,3,2),(3,2,1,0),(0,2,1,3),(3,1,0,2)]
+```
+```math
 SBox2=[(0,1,2,3),(2,3,0,1),(3,0,1,2),(2,1,0,3)]
+```
+```math
 SPBox=(2,4,3,1)      
+```
 
 ## Reference file
 [More details about standard and rules](https://shimo.im/docs/m5kvdlMaKvcENy3X/)
