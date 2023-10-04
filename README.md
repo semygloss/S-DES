@@ -13,10 +13,10 @@ Environment configuration: python3
 
 ### Encryption
 Run app.py file, terminal input:
-'''
+```
 #加密过程
 python app.py 
-'''
+```
 #### Key Generation
 generate a 10 bit binary key
 sample code:
