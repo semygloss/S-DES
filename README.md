@@ -30,7 +30,7 @@ The encrypted ciphertext will be displayed
 
 ### Decryption 
 Run app.py file, terminal input:
-'#解密过程'
+'< #解密过程 >'
 'python app.py'
 #### Key Generation
 generate a 10 bit binary key
@@ -81,9 +81,5 @@ sample code:
 '2'
 
 ### Reference File
-参考文档
-在此部分提供其他参考文档、链接或资源，以便用户深入了解S-DES加密算法和其应用。
-
-这个示例展示了一个S-DES加密程序用户指南的基本结构，包括概述、安装说明、使用方法、配置选项、异常处理、注意事项、示例应用、常见问题和参考文档。
-
-请注意，实际编写用户指南时，应根据具体的S-DES加密程序的特点和需求进行适当调整和扩展。确保文档内容准确、清晰，并提供足够的示例代码和说明，以便用户可以理解和正确使用S-DES加密程序。
+more details for S-DES:
+https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2014/04/17/SDES
