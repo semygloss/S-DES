@@ -105,6 +105,5 @@ sample code:
 ```
 
 ### Reference File
-[More details for S-DES](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2014/04/17/SDES)
-
+[More details for S-DES](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2014/04/17/SDES)  
 [Test result please click here to download](https://github.com/semygloss/cryptology/blob/main/The%20Alpha%20group%20test1-5.docx)
