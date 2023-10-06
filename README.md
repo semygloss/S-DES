@@ -84,7 +84,7 @@ click the 'Decrypt' button
 'Returned Message: Decrypt successfully! The plaintext is:104 101 108 108 111'
 ```
 
-### Advanced Usage
+### Extended Usage
 We design a function called brute_force(plaintext,ciphertext) to acquire the key in the situation of just knowing a set of plaintext and ciphertext.The method we use is the most traditional of the brute force method -- enumeration method.
 you can run this function by running the main.py file, terminal input:
 ```python
@@ -104,7 +104,7 @@ sample code:
 '2'
 ```
 
-### Reference File
+### Reference Files
 [More details for S-DES](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2014/04/17/SDES)  
 [Test result please click here to download](https://github.com/semygloss/cryptology/blob/main/The%20Alpha%20group%20test1-5.docx)  
 [Brute force cracking process](https://github.com/semygloss/cryptology/blob/main/Brute%20force%20cracking%20process.zip)
